@@ -116,7 +116,7 @@
 	}		
 </style>
 
-<script src="https://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/js/jquery-1.js" type="text/javascript"></script>
+<script src="https://rawgit.com/TipplerPhysics/bbvagcs/master/js/jquery-1.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 
