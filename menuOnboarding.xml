@@ -108,7 +108,7 @@
 		top:38px; 
 		left:-9999px; 
 		z-index:10; 
-		background:urlhttps://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/img/fade.png);
+		background:url(https://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/img/fade.png);
 	}
 	#dropline li ul.floatRight li {
 		float:right;
