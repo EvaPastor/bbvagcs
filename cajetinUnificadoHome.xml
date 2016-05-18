@@ -112,11 +112,11 @@
 			<div id="content_divfirstblock"  ></div>
 			<div id="content_divsecondblock"> </div>
 			<div id="content_divthirdblock"></div>
-			<!--<div id="content_divthirdblock"  style="height:180px; background-image:url(https://bbvagcs.googlecode.com/svn/trunk/fondocajetinuntercio.png); background-color: transparent; background-repeat: no-repeat; background-position: top; "></div>-->
+			<!--<div id="content_divthirdblock"  style="height:180px; background-image:url(https://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/fondocajetinuntercio.png); background-color: transparent; background-repeat: no-repeat; background-position: top; "></div>-->
 
 		</div>
 
-		<script type="text/javascript" src="https://bbvagcs.googlecode.com/svn/trunk/bbcode2html.js"></script>
+		<script type="text/javascript" src="https://rawgit.com/TipplerPhysics/bbvagcs/master/bbcode2html.js"></script>
 
 		<script type="text/javascript">
 		
@@ -244,7 +244,7 @@
 	</Content>  
 	<Content type="html" view="configuration"  preferred_height="480">
 	<![CDATA[
-		<script type="text/javascript" src="https://bbvagcs.googlecode.com/svn/trunk/editorbbcode.js"></script>
+		<script type="text/javascript" src="https://rawgit.com/TipplerPhysics/bbvagcs/master/editorbbcode.js"></script>
 		<style>
 			table td {
 				color: #000;
