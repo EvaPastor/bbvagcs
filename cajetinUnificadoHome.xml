@@ -43,7 +43,7 @@
 			#content_generic{
 			float:left;
 			width:100%;
-			background-image: url('http://bbvagcs.googlecode.com/svn/trunk/fondo.png');
+			background-image: url('https://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/fondo.png');
 			background-color: transparent;
 			background-repeat: no-repeat;
 			background-position: top;
